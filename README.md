@@ -20,3 +20,8 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 - per ogni appello d’Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
 
 Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
+
+## Creazione delle QUERY in My SQL
+1. primo file text "esercizio db-university" query data 13-11-2023
+
+2. secondo file text in arrivo
